@@ -1,0 +1,11 @@
+#Hugo configuration
+title = "wewds"
+baseURL = "https:\/\/werew.ewdr.rtr"
+languageCode = "en-us"
+theme = "tvpage"
+disablePathToLower = "true"
+enableRobotsTXT = true
+
+[params]
+loginId = "1758823"
+subfolder = ""
